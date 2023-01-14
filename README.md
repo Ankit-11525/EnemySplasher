@@ -7,7 +7,7 @@ You can see the **Controls** and **Rules** below
 ## Demo 
 
 
-**Play** Click [Here](https://ankit-11525.github.io/2D-SHOOTING-GAME/)
+**Play** Click [Here](https://ankit-11525.github.io/EnemySplasher/)
 
 
 
