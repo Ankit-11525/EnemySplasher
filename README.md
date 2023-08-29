@@ -1,4 +1,5 @@
 ﻿# EnemySplasher
+ ![Screenshot from 2023-08-30 04-46-40](https://github.com/Ankit-11525/EnemySplasher/assets/76417084/01296019-a91f-4e77-90a2-ad117a225502)
 
 Hi!  my first html canvas **game**, I have created this using vanilla JavaScript. 
 You can see the **Controls** and **Rules** below
